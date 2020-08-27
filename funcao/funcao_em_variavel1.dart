@@ -1,6 +1,6 @@
 main() {
 //jeito normal de declarar uma variável com valor atribuido
-int a = 2;
+//int a = 2;
 
 // maneira literal de declarar variável que recebe uma função como valor.
  // Reparar que a função foi atribuida sem os parênteses. Quem vai invocar essa função será a variável
